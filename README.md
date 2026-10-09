@@ -1,4 +1,4 @@
-# Tiny Sound Source. GCC code
+# Tiny Sound Source
 Tiny Sound Source is an 8-bit LPT DAC compatible with the Covox Speech Thing and Disney Sound Source. It is built around an AVR ATtiny2313 microcontroller and uses a minimal number of additional components.
 
 ## Key Features:
