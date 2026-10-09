@@ -10,7 +10,7 @@ Files:
 
 Building:
  - Requires AVR-GCC and GNU Make.
-   Run make to build the firmware.
+ - Run make to build the firmware.
 
 Flashing:
  - Use a compatible AVR programmer and the appropriate flashing utility to write tss.hex to microcontroller.
