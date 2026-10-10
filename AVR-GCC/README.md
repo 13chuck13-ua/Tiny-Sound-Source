@@ -1,4 +1,4 @@
-# Tiny Sound Source. GCC code
+# Tiny Sound Source - GCC code
 AVR-GCC firmware for Tiny Sound Source.
 
 ## Device:
