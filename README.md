@@ -10,8 +10,8 @@ Tiny Sound Source is an 8-bit LPT DAC compatible with the Covox Speech Thing and
  - Compatibility with the FTL Sound Adapter.
 
 ## Content
- - The AVR-GCC directory contains code for the microcontroller.
- - The KiCad directory contains the schematic, PCB layout, and Gerber files.
+ - The **AVR-GCC** directory contains code for the microcontroller.
+ - The **KiCad** directory contains the schematic, PCB layout, and Gerber files.
 
 ## Tested in the following games:
 | Name                  | Sound     | Autodetect  |
