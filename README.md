@@ -1,6 +1,8 @@
 # Tiny Sound Source
 Tiny Sound Source is an 8-bit LPT DAC compatible with the Covox Speech Thing and Disney Sound Source. It is built around an AVR ATtiny2313 microcontroller and uses a minimal number of additional components.
 
+![Tiny Sound Source](Images/3D-view.png)
+
 ## Key Features:
  - Automatic switching between Covox and DSS modes, with LED indication.
  - Covox mode: unrestricted sampling rate and protection against errors when reading data from the port.
