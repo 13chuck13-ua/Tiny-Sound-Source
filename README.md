@@ -36,3 +36,6 @@ To force the use of the Disney Sound Source in Hocus Pocus, use the following co
  - **-ss1** for LPT at 0x3BC
  - **-ss2** for LPT at 0x378
  - **-ss3** for LPT at 0x278
+
+## License
+The project is distributed under the **GPLv3** license. The license text is in the **GPLv3.txt** file.
