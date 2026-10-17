@@ -21,6 +21,7 @@ Tiny Sound Source is an 8-bit LPT DAC compatible with the Covox Speech Thing and
 | :---                  | :---:     | :---:       |
 | Alone in the Dark     | 🟢OK      | 🟢OK         |
 | Another World         | 🟢OK      | ⚪N/A        |
+| Arachnophobia         | 🟢OK      | 🟢OK         |
 | Dungeon Master        | 🟢OK      | 🟢OK         |
 | Fast Doom             | 🟢OK      | ⚪N/A        |
 | Hocus Pocus           | 🟢OK      | 🔴Not working|
